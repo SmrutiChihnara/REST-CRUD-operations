@@ -1,7 +1,11 @@
 package com.example.customer;
 
 public class Customer {
-	
+	/**
+	 * @author Smruti :)
+	 *
+	 * 12-04-2020
+	 */
 	private int customerId;
 	private String fristName;
 	private String lastName;
@@ -24,5 +28,5 @@ public class Customer {
 		this.lastName = lastName;
 	}
 	
-
+//done
 }
